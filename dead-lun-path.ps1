@@ -5,7 +5,7 @@
 .NOTES 
    File Name  : dead-lun-path.ps1 
    Author     : Miquel Mariano - @miquelMariano | https://miquelmariano.github.io
-   Version    : 1
+   Version    : 3
 
 .USAGE
    Execute directly
@@ -13,6 +13,7 @@
 .CHANGELOG
    v1 20/04/2017  Script creation
    v2 07/07/2017  Formatting log output
+   v3 16/10/2017  Formatting for blog post 
   
 #>
 
